@@ -1,0 +1,702 @@
+[
+    {
+        "title": "Практикант по IT",
+        "desc": "Алматы",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/160"
+    },
+    {
+        "title": "Программист Python",
+        "desc": "Долгопрудный",
+        "salary_from": 120000,
+        "salary_to": 300000,
+        "link": "https://api.hh.ru/areas/2085"
+    },
+    {
+        "title": "Младший Java разработчик (стажер)",
+        "desc": "Тверь",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/89"
+    },
+    {
+        "title": "WEB-разработчик",
+        "desc": "Москва",
+        "salary_from": 100000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Младший Java разработчик (стажер)",
+        "desc": "Ростов-на-Дону",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/76"
+    },
+    {
+        "title": "Junior Golang Developer",
+        "desc": "Таганрог",
+        "salary_from": 75000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1550"
+    },
+    {
+        "title": "Программист",
+        "desc": "Ижевск",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/96"
+    },
+    {
+        "title": "Разработчик Python / DRF (Junior)",
+        "desc": "Белгород",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/17"
+    },
+    {
+        "title": "Java-junior разработчик",
+        "desc": "Москва",
+        "salary_from": 50000,
+        "salary_to": 80000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Стажер-разработчик",
+        "desc": "Санкт-Петербург",
+        "salary_from": 40000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Web-разработчик (junior)",
+        "desc": "Новосибирск",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/4"
+    },
+    {
+        "title": "Junior iOS разработчик",
+        "desc": "Москва",
+        "salary_from": 50000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Intern Developer (Python/C++)",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист-стажер",
+        "desc": "Уфа",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/99"
+    },
+    {
+        "title": "Стажер в IT",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Стажер Python/C# developer",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": 35000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Senior С++ developer",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": 600000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист-робототехник",
+        "desc": "Санкт-Петербург",
+        "salary_from": 450000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Программист-стажер",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист Python (Django, FastAPI)",
+        "desc": "Благовещенск (Амурская область)",
+        "salary_from": 40000,
+        "salary_to": 80000,
+        "link": "https://api.hh.ru/areas/12"
+    },
+    {
+        "title": "C++ Internship in Berlin",
+        "desc": "Германия",
+        "salary_from": 6250,
+        "salary_to": 7500,
+        "link": "https://api.hh.ru/areas/27"
+    },
+    {
+        "title": "Senior C++",
+        "desc": "Санкт-Петербург",
+        "salary_from": 700000,
+        "salary_to": 1000000,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Web-программист",
+        "desc": "Екатеринбург",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/3"
+    },
+    {
+        "title": "QA Engineer",
+        "desc": "Санкт-Петербург",
+        "salary_from": 100000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Java-разработчик",
+        "desc": "Пермь",
+        "salary_from": 100000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/72"
+    },
+    {
+        "title": "Разработчик С++ (Junior)",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": 130000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "С++ разработчик (Middle)",
+        "desc": "Самара",
+        "salary_from": 120000,
+        "salary_to": 120000,
+        "link": "https://api.hh.ru/areas/78"
+    },
+    {
+        "title": "Программист Junior+",
+        "desc": "Москва",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Специалист по тестированию ПО",
+        "desc": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": 110000,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Senior C# разработчик",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист",
+        "desc": "Москва",
+        "salary_from": 250000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Frontend-разработчик (Middle / Senior)",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист С++ GUI",
+        "desc": "Москва",
+        "salary_from": 80000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Разработчик БПЛА",
+        "desc": "Москва",
+        "salary_from": 160000,
+        "salary_to": 190000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Junior C# Developer for International Company/ Remote",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Middle+ QA Engineer",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Инженер АСУ ТП",
+        "desc": "Ташкент",
+        "salary_from": 5000000,
+        "salary_to": 25000000,
+        "link": "https://api.hh.ru/areas/2759"
+    },
+    {
+        "title": "Программист-стажер",
+        "desc": "Санкт-Петербург",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Программист С++",
+        "desc": "Минск",
+        "salary_from": 2000,
+        "salary_to": 3000,
+        "link": "https://api.hh.ru/areas/1002"
+    },
+    {
+        "title": "Сотрудник в научный отдел",
+        "desc": "Санкт-Петербург",
+        "salary_from": 140000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Младший разработчик",
+        "desc": "Санкт-Петербург",
+        "salary_from": 60000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Программист",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Разработчик С++",
+        "desc": "Новосибирск",
+        "salary_from": 350000,
+        "salary_to": 500000,
+        "link": "https://api.hh.ru/areas/4"
+    },
+    {
+        "title": "Ведущий программист (кодер)",
+        "desc": "Москва",
+        "salary_from": 5000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Разработчик C#",
+        "desc": "Москва",
+        "salary_from": 200000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист-разработчик Python (PyQt)",
+        "desc": "Санкт-Петербург",
+        "salary_from": 160000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Программист С++ junior",
+        "desc": "Томск",
+        "salary_from": 85000,
+        "salary_to": 100000,
+        "link": "https://api.hh.ru/areas/90"
+    },
+    {
+        "title": "Разработчик C++",
+        "desc": "Санкт-Петербург",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Инженер-программист / Программист микроконтроллеров / Инженер по тестированию",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Algorithmic Trader/Алгоритмический Трейдер",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Инженер-программист микроконтроллеров в аккредитованную IT-компанию",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Full Stack программист",
+        "desc": "Ташкент",
+        "salary_from": 1000,
+        "salary_to": 4000,
+        "link": "https://api.hh.ru/areas/2759"
+    },
+    {
+        "title": "Unreal Engine разработчик",
+        "desc": "Москва",
+        "salary_from": 120000,
+        "salary_to": 200000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Тестировщик ПЛК / Инженер тестирования АСУ ТП",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": 120000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист С++",
+        "desc": "Москва",
+        "salary_from": 80000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист C#",
+        "desc": "Екатеринбург",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/3"
+    },
+    {
+        "title": "Junior Software Developer (C/C++/C#)",
+        "desc": "Санкт-Петербург",
+        "salary_from": 130000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "JavaScript developer (react)",
+        "desc": "Москва",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Middle C++ Engineer",
+        "desc": "Москва",
+        "salary_from": 300000,
+        "salary_to": 450000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Инженер-программист (Junior SQL developer)",
+        "desc": "Уфа",
+        "salary_from": 43900,
+        "salary_to": 54500,
+        "link": "https://api.hh.ru/areas/99"
+    },
+    {
+        "title": "Java-программист",
+        "desc": "Санкт-Петербург",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Unity разработчик (международная ИТ-компания)",
+        "desc": "Санкт-Петербург",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "C# developer",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Инженер-программист (разработчик ПО)",
+        "desc": "Самара",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/78"
+    },
+    {
+        "title": "Разработчик Telegram-ботов",
+        "desc": "Набережные Челны",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1641"
+    },
+    {
+        "title": "Стажер computer vision (задачи visual slam and odometry)",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист С++",
+        "desc": "Новосибирск",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/4"
+    },
+    {
+        "title": "Quantitative Researcher",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Руководитель отдела разработки",
+        "desc": "Москва",
+        "salary_from": 500000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "С/С++ developer",
+        "desc": "Воронеж",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/26"
+    },
+    {
+        "title": "Junior STM32 Developer",
+        "desc": "Казань",
+        "salary_from": 60000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/88"
+    },
+    {
+        "title": "Разработчик ПО",
+        "desc": "Москва",
+        "salary_from": 100000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист-разработчик Unreal Engine (Blueprints)",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": 100000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист С++",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": 450000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Rust Developer",
+        "desc": "Москва",
+        "salary_from": 150000,
+        "salary_to": 400000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Инженер по тестированию ПО",
+        "desc": "Таганрог",
+        "salary_from": 45000,
+        "salary_to": 190000,
+        "link": "https://api.hh.ru/areas/1550"
+    },
+    {
+        "title": "Разработчик Android",
+        "desc": "Омск",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/68"
+    },
+    {
+        "title": "Разработчик Python",
+        "desc": "Москва",
+        "salary_from": 4000,
+        "salary_to": 5000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Инженер-тестировщик",
+        "desc": "Москва",
+        "salary_from": 80000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Computer vision engineer",
+        "desc": "Санкт-Петербург",
+        "salary_from": 450000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Программист",
+        "desc": "Минск",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1002"
+    },
+    {
+        "title": "Разработчик Python (R&D)",
+        "desc": "Новосибирск",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/4"
+    },
+    {
+        "title": "Инженер-программист",
+        "desc": "Челябинск",
+        "salary_from": 50000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/104"
+    },
+    {
+        "title": "Программист-тестировщик",
+        "desc": "Казань",
+        "salary_from": 55000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/88"
+    },
+    {
+        "title": "Стажер - разработчик (C/C++ Linux Network)",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист",
+        "desc": "Екатеринбург",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/3"
+    },
+    {
+        "title": "Программист-стажер",
+        "desc": "Санкт-Петербург",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/2"
+    },
+    {
+        "title": "Embedded developer (робототехника)",
+        "desc": "Минск",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1002"
+    },
+    {
+        "title": "Программист",
+        "desc": "Нижний Новгород",
+        "salary_from": 160000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/66"
+    },
+    {
+        "title": "Unreal Engine developer",
+        "desc": "Москва",
+        "salary_from": 100000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист Python",
+        "desc": "Москва",
+        "salary_from": 120000,
+        "salary_to": 300000,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Программист C/С++ (Junior)",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Senior Java Engineer (JavaSE, algorithms, optimization)",
+        "desc": "Москва",
+        "salary_from": 6000,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "C# Unity Developer",
+        "desc": "Ижевск",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/96"
+    },
+    {
+        "title": "Java-разработчик (Gamedev)",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Специалист технической поддержки (чаты)",
+        "desc": "Владивосток",
+        "salary_from": 40000,
+        "salary_to": 80000,
+        "link": "https://api.hh.ru/areas/22"
+    },
+    {
+        "title": "Преподаватель информатики и робототехники",
+        "desc": "Алматы",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/160"
+    },
+    {
+        "title": "Unity developer",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Специалист по математическому моделированию/аналитик данных/программист C++/R",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": null,
+        "link": "https://api.hh.ru/areas/1"
+    },
+    {
+        "title": "Специалист по тестированию",
+        "desc": "Москва",
+        "salary_from": null,
+        "salary_to": 120000,
+        "link": "https://api.hh.ru/areas/1"
+    }
+]
